@@ -25,7 +25,7 @@ The website is built using modern web technologies for speed, performance, and a
 
 ## 🌐 Live Preview  
 
-🚀 **[View the Portfolio](https://osama-siddiqui-portfolio.netlify.app/)**  
+🚀 **[View the Portfolio](https://osama-siddiqui-portfolios.netlify.app/)**  
 
 ## 📌 How to Use  
 
